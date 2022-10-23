@@ -12,4 +12,5 @@ print(kok)
 #2-)
 
 # x^1/3 denkleminde newton rapson yöntemi ile çözersek ilk kök değerine 2 verdiğimizde sonuç 0,5 çıkar
-# ve bu adımları devam ettirirsek 0 a yaklaşır aynı şekilde kök negatif olsa bile 0 a yaklaşır
+# ve bu adımları devam ettirirsek birbirine yakın olmayan değerler çıkar ve bu da newton raphson yönteminin
+# eksikliklerinden olan kök kaçırma olayından kaynaklandığını gösterir
